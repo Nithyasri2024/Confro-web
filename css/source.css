@@ -1,0 +1,209 @@
+@charset "utf-8";
+/* CSS Document */
+.container
+{
+	width:100%;
+	height:700px;
+	background-image:url(../images/source.jpg);
+	overflow:hidden;
+	margin:0px auto;
+	font-family:arial;
+	
+}
+.box
+{
+	width:95%;
+	height:95px;
+	background-color:#CA01F7;
+	top:5%;
+	position:absolute;
+	margin-left:10px;
+}
+.getTickets
+{
+	
+	text-transform:uppercase;
+	font-size: large;
+	font-weight: bold;
+	position:absolute;
+	top:30px;
+	left:90%;
+	color:#FFFFFF;
+}
+
+header
+{
+	width:85%;
+	height:90px;
+	background-color:#031145;
+	float:left;
+	top:5%;
+	position:absolute;
+	margin-left:10px;
+}
+.name
+{
+	font-size:30px;
+	text-transform:uppercase;
+	color:#FFF7F7;
+	margin-left:40px;
+	margin-top:10px;
+	float:left;
+}
+.name span
+{
+	color:#A200F4;
+	
+}
+.nametwo
+{
+	font-size:20px;
+	color:#A200F4;
+	text-transform:uppercase;
+	letter-spacing:1px;
+	margin-left:0px;
+	margin-top:0px;
+}
+.year
+{
+	font-size:90px;
+	color:#F73346;
+	font-weight:bold;
+	text-align:left;
+	margin-top:150px;
+	margin-left:190px;	
+	
+}
+.mark
+{
+	font-size:70px;
+	color:#F8F4F4;
+	font-weight:bold;
+	text-align:left;
+	text-transform:capitalize;
+	margin-left:190px;	
+	
+	
+	
+}
+.conf
+{
+	font-size:70px;
+	color:#F8F4F4;
+	font-weight:bold;
+	text-align:left;
+	text-transform:capitalize;
+	margin-left:190px;
+}
+	
+nav ul
+{
+	float:left;
+	text-transform:capitalize;
+	margin-top:30px;
+}
+nav li
+{
+	list-style:none;
+	display:inline;
+	margin:20px 10px;
+	color:#D5D5D5;
+}
+nav
+{
+	float:left;
+}
+nav a
+{
+	color:#c3c0c0;
+	text-decoration:none;
+}
+nav a:hover
+{
+	color:#f7500f;
+}
+nav li.log
+{
+	margin-left:150px;
+}
+.mtbox
+{
+	width:480px;
+	height:40px;
+	background-color:#9503D5;
+	margin-left:190px;
+}
+.date 
+{
+	font-size:30px;
+	color:#F3EEEE;
+	font-weight:50px;
+	letter-spacing: 1px;
+
+}
+.biggboss
+{
+	width: 160px;
+	height: 30px;
+	background-color: #F3EEEE;
+	margin-top: 20px;
+	margin-left:190px ;
+}
+.ticks
+{
+	font-size: large;
+	text-transform: capitalize;
+	color: #040006;
+	text-align: center;
+	font-weight: bolder;
+	letter-spacing: 1px;
+	
+}
+.one
+{
+	width:40px ;
+	height:40px ;
+	background-color:violet ;
+	margin-left:190px ;
+
+	margin-top: 50px;
+}
+.noone
+{
+	font-size: 30px;
+	color: #F3EEEE;
+	font-weight: bolder;
+}
+.two
+{
+	width:40px ;
+	height:40px ;
+	background-color:violet ;
+	margin-left:265px ;
+
+	margin-top: -40px;
+	
+}
+
+.notwo
+{
+	font-size: 30px;
+	color: #F3EEEE;
+	font-weight: bolder;
+}
+.three
+{
+	width:40px ;
+	height:40px ;
+	background-color:violet ;
+	
+	margin-top: -40px;
+	
+	margin-left:350px;
+}
+.nothree
+{
+	font-size: 30px;
+	color: #F3EEEE;
+	font-weight: bolder;
+}

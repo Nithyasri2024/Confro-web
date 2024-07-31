@@ -1,0 +1,196 @@
+.fifthbox
+{
+    width: 100%;
+    height: 650px;
+    background-color: cadetblue;
+
+}
+.allabout
+{
+    font-size: medium;
+    text-transform: uppercase;
+    color: rgb(79, 78, 78);
+    text-align: center;
+    padding: 10px;
+    letter-spacing: 2px;
+}
+.dule
+{
+    font-size: 50px;
+    text-transform:capitalize;
+    color: rgb(9, 0, 0);
+    text-align: center;
+    font-weight: bolder;
+}
+.red
+{
+    width:400px;
+    height:390px;
+    background-color: azure;
+    margin-left:280px ;
+    top: 35px;
+    position: relative;
+    float: left;
+    
+}
+.violett
+{
+    width:400px;
+    height:90px ;
+    background-color: rgb(167, 91, 239);
+}
+.dayone
+{
+    font-size:large;
+    color: aliceblue;
+    text-align: center;
+    top:30px;
+    position: relative;
+    
+}
+.dayone span
+{
+    font-weight: bolder;
+    color: aliceblue;
+}
+.morningtym
+{
+    width: 400px;
+    height:150px;
+    background-color: rgb(245, 245, 248);
+    top:69px;
+    position: relative;
+}
+.timee
+{   
+    width: 80px;
+    height: 80px;
+    background-color: rgb(247, 250, 250);
+    top:30px;
+    position: relative;
+    margin-left:40px ;
+}
+.timee img
+{
+    width: 100%;
+    height:100% ;
+}
+
+
+.morningone
+{
+    width: 400px;
+    height: 150px;
+    background-color: rgb(254, 254, 255);
+    top:240px;
+    position:absolute;
+}
+
+
+.lap
+{   
+    width: 80px;
+    height: 80px;
+    background-color: rgb(247, 250, 250);
+   bottom: -180px;
+    position: relative;
+    margin-left:40px ;
+}
+.lap img
+{
+    width: 100%;
+    height:100% ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.yellow
+{
+    width:400px;
+    height:390px;
+    background-color: azure;
+    margin-left:800px ;
+    top: 35px;
+    position: relative;
+    
+}
+.orangee
+{
+    width:400px;
+    height:90px ;
+    background-color: rgb(213, 122, 76);
+}
+.daytwo
+{
+    font-size:large;
+    color: aliceblue;
+    text-align: center;
+    top:30px;
+    position: relative;
+    
+}
+.daytwo span
+{
+    font-weight: bolder;
+    color: aliceblue;
+}
+.morningtymm
+{
+    width: 400px;
+    height:150px;
+    background-color: rgb(251, 251, 251);
+    top:69px;
+    position: relative;
+}
+
+.timeee
+{   
+    width: 80px;
+    height: 80px;
+    background-color: rgb(247, 250, 250);
+    top:30px;
+    position: relative;
+    margin-left:40px ;
+}
+.timeee img
+{
+    width: 100%;
+    height:100% ;
+}
+.morningtwo
+{
+    width: 400px;
+    height:150px;
+    background-color: rgb(251, 253, 253);
+    top:69px;
+    position: relative;
+}
+
+.top
+{   
+    width: 80px;
+    height: 80px;
+    background-color: rgb(247, 250, 250);
+   top:30px;
+    position: relative;
+    margin-left:40px ;
+}
+.top img
+{
+    width: 100%;
+    height:100% ;
+}
+

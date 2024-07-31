@@ -1,0 +1,219 @@
+.eightbox
+{
+    width: 100%;
+    height: 400px;
+    background-color: rgb(28, 1, 43);
+}
+.confbox
+{
+    width: 300px;
+    height: 300px;
+    background-color: rgb(28, 1, 43);
+   top: 30px;
+   position: relative;
+    margin-left: 180px;
+}
+.pro
+{
+	font-size:30px;
+    font-weight: bolder;
+	text-transform:uppercase;
+	color:#FFF7F7;
+	margin-left:40px;
+	margin-top:20px;
+	float:left;
+}
+.pro span
+{
+	color:#A200F4;
+	
+}
+.fear
+{
+	font-size:20px;
+	color:#A200F4;
+	text-transform:uppercase;
+	letter-spacing:1px;
+	margin-left:0px;
+	margin-top:0px;
+    
+}
+.lore pre
+{
+font-size: 12px;
+color: rgb(217, 222, 226);
+text-align: left;
+text-transform: capitalize;
+margin-right:160px ; 
+margin-left:30px ;
+margin-top: 0px;
+top: 110px;
+position: absolute;
+font-weight: bold;
+line-height:28px ;
+}
+.newsbox
+{
+    width: 300px;
+    height: 300px;
+    background-color: rgb(28, 1, 43);;
+   top: -270px;
+   position: relative;
+    margin-left: 510px;
+}
+.news
+{
+    font-size: large;
+    color: aliceblue;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-left:0px;
+    padding: 60px;
+}
+.email
+{
+    width:240px ;
+    height:30px ;
+    background-color: darkslategray;
+    margin-left: 60px;
+}
+.address
+{
+    font-size: medium;
+    text-transform: lowercase;
+    color: rgb(18, 30, 30);
+    margin-left:10px;
+    padding: 5px;
+    font-weight: bold;
+}
+.subs
+{
+    width:240px ;
+    height: 60px;
+    background-color: aliceblue;
+    margin-left: 60px;
+    margin-top:20px ;
+}
+.orange
+{
+    width:240px ;
+    height: 58px;
+    background-color: rgb(122, 3, 249);
+    margin-left: 0px;
+    margin-top:20px ;
+}
+.cribe
+{
+    font-size: larger;
+    text-transform:uppercase ;
+    color: azure;
+    padding:15px;
+    font-weight: bold;
+    margin-left: 20px;
+}
+.ins
+{
+    width: 300px;
+    height: 300px;
+    background-color:rgb(28, 1, 43);
+   top: -570px;
+   position: relative;
+    margin-left: 870px;
+}
+.inst
+
+{
+    font-size: large;
+    color: aliceblue;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-left:0px;
+    padding: 60px;
+}
+.pp
+{
+    width: 70px;
+    height: 70px;
+    background-color: aqua;
+    top:0px;
+    position: relative;
+    margin-left:10px ;
+}
+.pp img 
+{
+    width:100% ;
+    height: 100%;
+}
+.qq
+
+{
+    width: 70px;
+    height: 70px;
+    background-color: aqua;
+    top:10px;
+    position: relative;
+    margin-left:10px ;
+}
+.qq img 
+{
+    width:100% ;
+    height: 100%;
+}
+.rr
+{
+    width: 70px;
+    height: 70px;
+    background-color: aqua;
+    top:-140px;
+    position: relative;
+    margin-left:90px ;
+}
+.rr img 
+{
+    width:100% ;
+    height: 100%;
+}
+.ss
+
+{
+    width: 70px;
+    height: 70px;
+    background-color: aqua;
+    top:-130px;
+    position: relative;
+    margin-left:90px ;
+}
+.ss img 
+{
+    width:100% ;
+    height: 100%;
+}
+.tt
+{
+    width: 70px;
+    height: 70px;
+    background-color: aqua;
+    top:-280px;
+    position: relative;
+    margin-left:170px ;
+}
+.tt img 
+{
+    width:100% ;
+    height: 100%;
+}
+.uu
+
+{
+    width: 70px;
+    height: 70px;
+    background-color: aqua;
+    top:-270px;
+    position: relative;
+    margin-left:170px ;
+}
+.uu img 
+{
+    width:100% ;
+    height: 100%;
+}

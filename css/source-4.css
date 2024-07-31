@@ -1,0 +1,144 @@
+.fourthbox
+{
+    width: 100%;
+    height:500px ;
+    background-color: whitesmoke;
+}
+.seeall
+{
+    font-size: medium;
+    text-transform: uppercase;
+    color: darkgrey;
+    text-align: center;
+    padding: 10px;
+    letter-spacing: 2px;
+}
+.topic
+{
+    font-size: 50px;
+    text-transform:capitalize;
+    color: rgb(9, 0, 0);
+    text-align: center;
+    font-weight: bolder;
+}
+.onee
+{
+    width: 190px;
+    height: 30px;
+    background-color: blueviolet;
+    margin-left:200px ;
+    float: left;
+}
+.intro
+{
+    font-size: 20px;
+    color: rgb(250, 248, 248);
+
+}
+.twoo
+{
+    width:190px ;
+    height: 30px;
+    background-color: blueviolet;
+    margin-left:400px ;
+   
+}
+    
+
+
+.strategy
+{
+    font-size: 20px;
+    color: rgb(250, 248, 248);
+
+}
+.threee
+{
+    width:190px ;
+    height: 30px;
+    background-color: blueviolet;
+    margin-left:600px ;
+    margin-top: -30px;
+    
+
+}
+.cyber
+{
+    font-size: 20px;
+    color: rgb(250, 248, 248);
+
+}
+.fourr
+{
+    width:190px ;
+    height: 30px;
+    background-color: blueviolet;
+    margin-left:800px ;
+    margin-top: -30px;
+   
+
+}
+.online
+{
+    font-size: 20px;
+    color: rgb(250, 248, 248);
+
+}
+.fivee
+{
+    width:190px ;
+    height: 30px;
+    background-color: blueviolet;
+    margin-left:1000px ;
+    margin-top: -30px;
+
+}
+.story
+{
+    font-size: 20px;
+    color: rgb(250, 248, 248);
+}
+.studies
+{
+    font-size:30px ;
+    text-transform: capitalize;
+    font-weight: bold;
+    color: black;
+    text-align: left;
+    margin-top:30px ;
+    margin-left:200px ;
+}
+.loremm p
+{
+    font-size: medium;
+    text-transform: capitalize;
+    text-align: left;
+    color: rgb(147, 145, 145);
+    margin-left:200px ;
+    line-height:22px ;
+}
+.read
+{
+    font-size: large;
+    text-transform: capitalize;
+    color: black;
+    text-decoration: underline;
+    margin-top:30px ;
+    margin-left:200px ;
+}
+.photo
+{
+    width: 300px;
+    height: 300px;
+    float: right;
+    background-color: blanchedalmond;
+    margin-top: -290px;
+    margin-right:350px ;
+}
+.photo img
+{
+    width:100% ;
+    height: 100%;
+}
+
+

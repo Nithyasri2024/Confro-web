@@ -1,0 +1,19 @@
+footer
+{
+    width: 100%;
+    height: 60px;
+    background-color: rgb(3, 3, 30);
+}
+
+        .copyRight
+        {
+            font-size:15px ;
+            text-align: left;
+            color: darkslategray;
+            padding:20px ;
+            margin-left:180px ;
+        }
+        span
+        {
+            color: rgb(4, 32, 239);
+        }

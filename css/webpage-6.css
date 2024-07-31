@@ -1,0 +1,187 @@
+.boxsix
+        {
+            width: 100%;
+            height:290px ;
+            background-color:rgb(31, 1, 78);
+        }
+       
+        
+        .top
+        {
+            font-size: 25px;
+            text-transform: uppercase;
+           text-align:left ;
+           color:aliceblue;
+          
+          padding:40px;
+          margin-left:190px ;
+        }
+        .top span
+        {
+            color:rgb(157, 7, 250)
+        }   
+        .topss
+        {
+        font-size: small;
+            text-transform: uppercase;
+           text-align:left;
+           color:aliceblue;
+          margin-top:-40.5px ;
+          margin-left:230px ;
+          letter-spacing:3px ;
+        }
+        .topss span
+        {
+            color:rgb(157, 7, 250)
+        }
+        .topsss p
+        {
+            font-size: small;
+            text-transform: capitalize;
+            text-align: left;
+            color:rgb(166, 163, 163) ;
+            margin-left:230px ;
+            line-height:19px ;
+            margin-top:30px ; 
+            float: left;
+        }
+        .center
+        {
+            font-size: small;
+            font-weight: bolder;
+            text-transform: capitalize;
+            color: azure; 
+            margin-top:-20px ;
+           padding-left:500px ;
+        }
+        .first
+        {
+            width:220px ;
+            height:30px ;
+            background-color: rgb(92, 55, 104);
+            
+            margin-left: 500px;
+            margin-top: 40px;
+            text-align: center;
+            font-weight: bold;
+            color:rgb(189, 190, 191)
+            text-align: center;
+        }
+        
+        .second
+        {
+            width:220px ;
+            height:40px ;
+            background-color:violet ;
+            color:azure;
+            font-weight: 100px;
+            text-align: center;
+        
+            margin-left:50px ; 
+            margin-top: 10px;
+            text-align: center;
+            text-transform:uppercase ; 
+            float: left;
+        }
+        .last
+        {
+            
+                font-size: small;
+                font-weight: bolder;
+                text-transform: capitalize;
+                color: azure; 
+                margin-top:-85px ;
+               padding-right:530px ; 
+               float: right;  
+        }
+        .one
+        {
+            width: 70px;
+            height: 70px;
+            background-color: blue;
+            float: right; 
+            margin-right:507px ; 
+            margin-top:45px ;
+        }
+        .one img
+        {
+            width: 100%;
+            height: 100%;
+
+        }
+        .two
+        {
+            width: 70px;
+            height: 70px;
+            background-color: rgb(255, 123, 0);
+            float: right; 
+            margin-right:0px ; 
+            margin-bottom:80px ;
+            top:-5px;
+            position: relative;
+           left:865px;
+            position: relative;
+            float: left;
+
+        }
+        .two img
+        {
+            width: 100%;
+            height:100%;
+        }
+        .three
+        {
+            width: 70px;
+            height: 70px;
+            background-color: blue;
+            float: right; 
+            margin-right: -70px;
+            margin-top:-79px ;
+        }
+        .three img
+        {
+            width: 100%;
+            height: 100%;
+        }
+        .four
+        {
+            width: 70px;
+            height: 70px;
+            background-color: blue;
+            float: right;
+            margin-top:-80px ;
+            margin-right:-146px ;
+        }
+        .four img
+        {
+            width: 100%;
+            height: 100%;
+        }
+        .five
+        {
+            width: 70px;
+            height: 70px;
+            background-color: blue;
+            float: right; 
+            margin-right: -219px;
+            margin-top:-80px ;
+        }
+        .five img
+        {
+            width: 100%;
+            height: 100%;
+        }
+        .six
+        {
+            width: 70px;
+            height: 70px;
+            background-color: blue;
+            float: right;
+            margin-top:-5px ;
+            margin-right:-220px ;
+        }
+        .six img
+        {
+            width: 100%;
+            height: 100%;
+        }
